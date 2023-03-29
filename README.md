@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### I'm a Data Analyst who likes to analyze data using the necessary tools and presents it by visualizing it.  
-I'm still at the beginning of the road, but I'm very eager to learn and very excited to improve myself.  <img src ="https://images.anytask.com/resources/user/257cfe0d49459bec/task/1611723589513_post-social-data-for-publishers-tail.png" align="right">
+I'm still at the beginning of the road, but I'm very eager to learn and very excited to improve myself.  <img src ="https://images.anytask.com/resources/user/257cfe0d49459bec/task/1611723589513_post-social-data-for-publishers-tail.png" width="350" height="auto" >
 I like to work as a team and I am aware of my responsibilities.  I am educated on Excel, SQL, Tableau, PowerBI, Python.
 
 ## LET'S CONNECT
