@@ -1,6 +1,6 @@
 ## HI THERE 👋
 
-<img src ="https://images.anytask.com/resources/user/257cfe0d49459bec/task/1611723589513_post-social-data-for-publishers-tail.png" width="350" height="auto" align="right">
+<img src ="https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815734/itpro/2017/10/big_data_world_global.jpg" width="350" height="auto" align="right">
 
 #### I'm a Data Analyst who likes to analyze data using the necessary tools and presents it by visualizing it. I'm still at the beginning of the road, but I'm very eager to learn and very excited to improve myself. I like to work as a team and I am aware of my responsibilities. I am educated on Excel, SQL, Tableau, PowerBI, Python. 
 
